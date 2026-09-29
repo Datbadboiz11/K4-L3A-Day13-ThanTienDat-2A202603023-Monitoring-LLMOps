@@ -8,7 +8,7 @@
 - **MSSV:** 2A202603023
 - **Lớp:** K4-L3A
 - **Repository URL:** https://github.com/Datbadboiz11/K4-L3A-Day13-ThanTienDat-2A202603023-Monitoring-LLMOps
-- **Commit SHA cuối:** 7e779afc251aabe6bce19a39088a6707b7f643be
+- **Commit SHA cuối:** b4578d5ef8afc7e0279dea562af7fc1ff7495ef4
 - **Challenge ID:** day13-k4-l3a-monitoring-llmops-v1
 - **Tên project Langfuse cá nhân:** `day13-k4-l3a-2A202603023`
 
